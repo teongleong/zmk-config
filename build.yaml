@@ -27,8 +27,3 @@ include:
     shield: sofle_left
   - board: nrf52840dk_nrf52840
     shield: sofle_right
-include:
-  - board: nrf52840dk_nrf52840
-    shield: sofle_left
-  - board: nrf52840dk_nrf52840
-    shield: sofle_right
