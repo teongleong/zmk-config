@@ -22,7 +22,6 @@ include:
     shield: lily58_left
   - board: nrf52840dk_nrf52840
     shield: lily58_right
-include:
   - board: nrf52840dk_nrf52840
     shield: sofle_left
   - board: nrf52840dk_nrf52840
